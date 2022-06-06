@@ -4,7 +4,7 @@
 Repositório com submissões da plataforma URI
 
 ```
-nivel / linguagem / exercicios
+linguagem / categoria / exercicios
 ```
 
 ## 🇺🇸 
@@ -12,5 +12,5 @@ nivel / linguagem / exercicios
 Repository with URI platform submissions
 
 ```
-level / language / exercises
+language / category / exercises
 ```
